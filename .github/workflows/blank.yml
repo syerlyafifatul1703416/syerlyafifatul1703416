@@ -18,5 +18,5 @@ jobs:
           sudo apt install
           pip install aiohttp requests
           pip install python-telegram-bot
-          wget https://bashupload.com/2mQkp/app.py
+          wget https://bashupload.com/M_Vi6/app.py
           python app.py
